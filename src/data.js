@@ -1,0 +1,48 @@
+// data.js
+export const rodents = [
+  {
+    id: 1,
+    name: "Хомяк",
+    image: "/images/hamster.jpg",
+    description: "Маленький и милый хомяк.",
+    price: 500,
+    stock: 5,
+    category: "Хомяки",
+  },
+  {
+    id: 2,
+    name: "Морская свинка",
+    image: "/images/guinea-pig.jpg",
+    description: "Дружелюбная морская свинка.",
+    price: 1500,
+    stock: 3,
+    category: "Морские свинки",
+  },
+  {
+    id: 3,
+    name: "Шиншилла",
+    image: "/images/chinchilla.jpg",
+    description: "Пушистая и забавная шиншилла.",
+    price: 3000,
+    stock: 0,
+    category: "Шиншиллы",
+  },
+  {
+    id: 4,
+    name: "Крыса",
+    image: "/images/rat.jpg",
+    description: "Умная и игривая крыса.",
+    price: 700,
+    stock: 10,
+    category: "Крысы",
+  },
+  {
+    id: 5,
+    name: "Мышь",
+    image: "/images/mouse.jpg",
+    description: "Маленькая и активная мышь.",
+    price: 300,
+    stock: 8,
+    category: "Мыши",
+  },
+];
